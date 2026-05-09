@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+cv_project_env/
+venv/
+.venv/
+env/
+
+# Data and large files - DO NOT commit clips or model weights to Git
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Results - keep structure but not contents
+results/checkpoints/
+results/plots/
+results/runs/
+*.log
+
+# Frame extractions (regeneratable)
+data/frames/
+data/cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Env vars
+.env
