@@ -2,7 +2,7 @@
 
 CMSC426 final project. Comparing three approaches — frame-based, video-based, and pose-based — for classifying basketball shot types from short broadcast clips.
 
-**Authors:** Tyler [Last Name], [Partner Name]
+**Authors:** Tyler Luk, Henry Zhang
 
 ## Results summary
 
